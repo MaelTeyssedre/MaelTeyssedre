@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 📫 How to reach me **maelteyssedre@gmail.com**
+- 📫 How to reach me **maelteyssedre@gmail.com** **+33 6 61 52 04 16**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/maeltey/](https://www.linkedin.com/in/maeltey/)
 
