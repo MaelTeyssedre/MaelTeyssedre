@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/maeltey/](https://www.linkedin.com/in/maeltey/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaelTeyssedre)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaelTeyssedre&count_private=true&show_icons=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
