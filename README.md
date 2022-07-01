@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MT</h1>
 <h3 align="center">A passionate C/C++ Software/Game/System developer !</h3>
 
-![MT's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaelTeyssedre&hide=contribs,stars&count_private=true&show_icons=true&show_icons=true&theme=tokyonight)
+![MT's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaelTeyssedre&hide=contribs,stars&count_private=true&show_icons=true&theme=tokyonight)
 
 - 🌱 I’m currently learning **Rust**
 
@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/maeltey/](https://www.linkedin.com/in/maeltey/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaelTeyssedre&count_private=true&show_icons=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaelTeyssedre&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
