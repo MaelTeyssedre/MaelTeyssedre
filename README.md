@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MT</h1>
 <h3 align="center">A passionate C/C++ Software/Game/System developer !</h3>
 
-![MT's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaelTeyssedre&hide=contribs,stars&count_private=true)
+![MT's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaelTeyssedre&hide=contribs,stars&count_private=true&show_icons=true)
 
 - 🌱 I’m currently learning **Rust**
 
