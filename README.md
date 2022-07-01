@@ -2,7 +2,7 @@
 <h3 align="center">A passionate C/C++ Software/Game/System developer !</h3>
 
 [![MT's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaelTeyssedre)](https://github.com/anuraghazra/github-readme-stats)
-![MT's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaelTeyssedre&hide=contribs,dtars)
+![MT's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaelTeyssedre&hide=contribs,stars)
 
 - 🌱 I’m currently learning **Rust**
 
