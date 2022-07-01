@@ -9,6 +9,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/maeltey/](https://www.linkedin.com/in/maeltey/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaelTeyssedre)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/mt_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mt_" height="30" width="40" /></a>
