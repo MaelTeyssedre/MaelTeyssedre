@@ -1,3 +1,5 @@
+![Alt text](https://drive.google.com/file/d/1wvJGn2HJfi60DKxjB46KLFOfpCsQkKY8/view?usp=sharing "Optional title")
+
 # 💫 About Me:
 🔭 I’m currently working on the SmartHears project : a mobile app dealing with IA to improve hearing aids<br>🌱 I’m currently learning Rust<br>📫 How to reach me maelteyssedre@gmail.com / +33.6.61.52.04.16 / +1 (650) 686-8021
 
